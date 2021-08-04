@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @charanyap85
+- 👀 I'm interested problem solving, coding and books
+- 🌱 I’m currently learning web development
